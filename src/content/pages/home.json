@@ -1,0 +1,30 @@
+{
+  "brand": {
+    "alt": "Hello World logo"
+  },
+  "greetings": [
+    {
+      "headline": "HELLO WORLD!!",
+      "body": "A small bright start, made just for this moment.",
+      "id": "dmehsaYDI66uAVgj82_Px"
+    },
+    {
+      "headline": "Hello again.",
+      "body": "The world is still here. So are you. That feels promising.",
+      "id": "X8dmciDWc41v_1SML-Oy2"
+    },
+    {
+      "headline": "Good to see you.",
+      "body": "One tiny greeting can make a whole page feel lighter.",
+      "id": "5CZEAzkIapCIzqr_FtR27"
+    },
+    {
+      "headline": "A fresh hello.",
+      "body": "There is always room for one more good beginning.",
+      "id": "oS5tJL_4r7W0Gk4Llvk5T"
+    }
+  ],
+  "button": "Say it again",
+  "footer": "Made for the small moments that start everything.",
+  "detail": "No. 001 — a friendly first page"
+}
