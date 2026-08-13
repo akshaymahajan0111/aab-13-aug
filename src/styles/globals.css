@@ -7,20 +7,20 @@
 @layer base {
   :root {
     /* Core Colors */
-    --background: 42 68% 95%;
+    --background: 25 100% 98%;
     --foreground: 0 0% 4%;
-    --card: 45 100% 98%;
-    --card-foreground: 43 9% 15%;
-    --popover: 42 68% 95%;
+    --card: 25 100% 98%;
+    --card-foreground: 0 0% 4%;
+    --popover: 25 100% 98%;
     --popover-foreground: 0 0% 4%;
-    --primary: 32 95% 44%;
+    --primary: 17 88% 40%;
     --primary-foreground: 0 0% 100%;
-    --secondary: 43 64% 87%;
-    --secondary-foreground: 0 0% 39%;
-    --muted: 41 53% 88%;
-    --muted-foreground: 37 12% 37%;
-    --accent: 42 90% 65%;
-    --accent-foreground: 0 0% 34%;
+    --secondary: 47 88% 40%;
+    --secondary-foreground: 0 0% 100%;
+    --muted: 18 58% 80%;
+    --muted-foreground: 25 100% 38%;
+    --accent: 197 88% 40%;
+    --accent-foreground: 0 0% 100%;
     --destructive: 0 84% 60%;
     --destructive-foreground: 0 0% 100%;
     --success: 160 84% 39%;
@@ -29,26 +29,26 @@
     --warning-foreground: 0 0% 100%;
     --info: 217 91% 60%;
     --info-foreground: 0 0% 100%;
-    --border: 40 36% 78%;
-    --input: 40 36% 78%;
-    --ring: 32 95% 44%;
+    --border: 25 96% 83%;
+    --input: 25 96% 83%;
+    --ring: 17 88% 40%;
 
     /* Extended Colors */
-    --chart-1: 32 94% 74%;
-    --chart-2: 32 94% 59%;
-    --chart-3: 32 95% 44%;
-    --chart-4: 32 95% 29%;
-    --chart-5: 32 94% 14%;
+    --chart-1: 18 88% 70%;
+    --chart-2: 17 89% 55%;
+    --chart-3: 17 88% 40%;
+    --chart-4: 17 88% 25%;
+    --chart-5: 18 89% 10%;
 
     /* Sidebar Colors */
-    --sidebar: 41 53% 88%;
+    --sidebar: 18 58% 80%;
     --sidebar-foreground: 0 0% 4%;
-    --sidebar-primary: 32 95% 44%;
+    --sidebar-primary: 17 88% 40%;
     --sidebar-primary-foreground: 0 0% 100%;
-    --sidebar-accent: 42 90% 65%;
-    --sidebar-accent-foreground: 0 0% 34%;
-    --sidebar-border: 40 36% 78%;
-    --sidebar-ring: 32 95% 44%;
+    --sidebar-accent: 197 88% 40%;
+    --sidebar-accent-foreground: 0 0% 100%;
+    --sidebar-border: 25 96% 83%;
+    --sidebar-ring: 17 88% 40%;
 
     /* Typography */
     --font-sans: "DM Sans", -apple-system, BlinkMacSystemFont, sans-serif;
